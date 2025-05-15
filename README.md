@@ -30,3 +30,6 @@ Amazon Lex: To build and manage the chatbot and define the conversation flow.
 
 Conclusion
 This chatbot project demonstrates the powerful integration capabilities of Amazon. It’s an exciting way to learn about serverless applications and real time interaction with AWS. Happy building!
+
+
+![Lex Demo](AWSChatBot-Lex-Vog-gif/AmazonLex%20-part%201.gif)
