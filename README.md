@@ -33,3 +33,5 @@ This chatbot project demonstrates the powerful integration capabilities of Amazo
 
 
 ![Lex Demo](AWSChatBot-Lex-Vog-gif/AmazonLex%20-part%201.gif)
+![Lex Demo](AWSChatBot-Lex-Vog-gif/AmazonLex%20-part%202.gif)
+
