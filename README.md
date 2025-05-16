@@ -34,4 +34,9 @@ Conclusion
 
 ![Lex Demo](AWSChatBot-Lex-Vog-gif/AmazonLex.gif)
 
+Architecture
+![Image Description](Architecture/Architecture.jpeg)
+
+
+
 
