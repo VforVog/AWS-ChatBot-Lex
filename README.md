@@ -10,13 +10,8 @@ Begin by creating a new bot in Amazon Lex with a basic configuration.
 -Idle session timeout
 
 
-- Specify Intents and Slots
+- Specify Intents (Responses) and Slots (Choices)
 
-
-- Define user intents, like TranslateIntent, to manage translation requests.
-Add slots to capture details, such as the target language.
-Specify Fulfillment
-Set up fulfillment to manage how Lex responds, using AWS Lambda to handle the request and Amazon Translate for translation.
 
 - Build and Test the Chatbot
 Integrate and test the bot in the Amazon Lex console, checking for correct interaction.
