@@ -1,6 +1,6 @@
 ChatBot with Amazon Lex 🤖
 
-- Location: Ireland
+- Location: Ireland 
 So Amazon Lex can work!
 
 
